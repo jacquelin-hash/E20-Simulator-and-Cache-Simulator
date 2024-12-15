@@ -1,5 +1,5 @@
 # E20-Simulator-and-Cache-Simulator
-
+CS-UY 2214 Computer Architecture and Organization projects 1 & 2
 ## Overview 
 The E20 Simulator replicates the behavior of an E20 processor by executing E20 machine language instructions in software. The Cache Simulator monitors memory access patterns, providing insights into how the simulated program interacts with memory.
 
